@@ -212,6 +212,7 @@ header {
     float: right;
     list-style: none;
     margin-top: 50px;
+    margin-right: 30px;
 }
 
 .main-nav li {
@@ -331,6 +332,14 @@ header {
     background-color: #ebebeb;
 }
 
+.steps-img {
+    width: 75%;
+    height: auto;
+    display:
+}
+
+}
+
 .steps-box {
     margin-top: 40px;
 }
@@ -351,9 +360,8 @@ header {
     background-position: center;
 }
 
-car-screen {
-    width: 50%;
-    height: auto;
+.works-step p {
+    margin: 40px 0;
 }
 
 .works-step div {

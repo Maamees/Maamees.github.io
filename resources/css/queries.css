@@ -6,6 +6,8 @@
     padding: 0 2%;
 }
     .row { padding: 0 2%;  }
+    
+    .steps-box p {margin: 10px 0;}
 }
 
 
@@ -90,7 +92,9 @@
     
     .contact-form { width: 100%; }
     
+    .steps-box:first-child {text-align: center;}
     
+    .done-showcase { }
 }
 
 
